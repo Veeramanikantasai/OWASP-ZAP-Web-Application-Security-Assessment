@@ -62,10 +62,16 @@ The assessment identified **12 distinct security alert types**.
 - Documented mitigation recommendations.
 - Evaluated the strengths and limitations of vulnerability scanning.
 
-## Project Documentation
 
-The final dissertation, presentation and supporting assessment evidence will be added to this repository.
+## 📚 Project Documentation
 
+- [Master's Dissertation](docs/A00046919_Veera_Kaja_Thesis.pdf)
+- [Final Project Presentation](docs/A00046919_THESI_FINAL_V2.pptx)
+
+The dissertation contains the experimental setup,
+testing methodology, vulnerability findings,
+security analysis and remediation recommendations.
+  
 ## Author
 
 **Veera Manikanta Sai Kaja**  
